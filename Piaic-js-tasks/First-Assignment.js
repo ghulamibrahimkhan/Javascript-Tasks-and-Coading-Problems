@@ -107,3 +107,20 @@ num = 10;
 // var result = --a - --b + ++b + b--;
 // //             1  -  0 +  1  + 1
 // document.write("a is " + a + "<br> b is " + b + "<br> result is " + result)
+
+// let stateCheck = "a";
+// if (typeof(stateCheck) == "number") {
+//     if (stateCheck < 0) {
+//     console.log("Negative number")        
+//     }
+//     else if (stateCheck > 0) {
+//     console.log("Positive number")        
+//     }
+//     else if (stateCheck === 0) {
+//     console.log("Zero (-:_);")        
+//     }
+// }
+// else{
+//     console.log("Pls Only insert unumbers")
+// }
+// console.log(typeof(stateCheck));
