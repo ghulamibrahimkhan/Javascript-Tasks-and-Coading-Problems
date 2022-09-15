@@ -173,6 +173,13 @@
 // index !== -1 ? document.write(food[index]+" is available at index "+ index + " in our bakery"): document.write("We're sorry "+userInput+" is not found in our bakery")
 
 
+// firstNames =["imran","asif","nawaz"];
+// lastNames = ["khan","zardari",'shreef'];
+// fullNames = [];
+// for (let i = 0; i < firstNames.length; i++) {
+//     fullNames.push(firstNames[i]+" "+lastNames[i])
+// }
+// console.log(fullNames);
 
 
 
